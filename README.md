@@ -7,3 +7,6 @@
 ## Concept Diagram
 ![Concept_Diagram](https://github.com/digvijaymachale/Intrusion-Detection-System/assets/80525740/84f08c92-779f-4bec-a494-0eb70d2b0bc2)
 
+### Publication at IEEE’s 56th International Carnahan Conference on Security Technology (2023).
+![WhatsApp Image 2023-12-15 at 15 41 16_1026d065](https://github.com/digvijaymachale/Intrusion-Detection-System/assets/80525740/e100aa6b-ea91-41f0-b182-53173b8f03a5)
+
